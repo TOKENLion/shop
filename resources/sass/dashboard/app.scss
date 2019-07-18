@@ -1,0 +1,38 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+//@import 'variables';
+@import './variables-bootstrap';
+
+//@import '~bootstrap/scss/bootstrap';
+@import "~bootstrap-sass/assets/stylesheets/bootstrap";
+
+// Bootstrap
+//@import '~gentelella/vendors/bootstrap/dist/css/bootstrap';
+
+// Font Awesome
+@import '~gentelella/vendors/font-awesome/css/font-awesome.css';
+
+// Bootstrap-wysiwyg
+@import '~gentelella/vendors/google-code-prettify/src/prettify.css';
+
+// Bootstrap-progressbar
+@import '~gentelella/vendors/bootstrap-progressbar/css/bootstrap-progressbar-3.3.4.min.css';
+
+// Bootstrap-daterangepicker
+@import '~gentelella/vendors/bootstrap-daterangepicker/daterangepicker.css';
+
+// NProgress
+@import '~gentelella/vendors/nprogress/nprogress.css';
+
+// iCheck
+@import '~gentelella/vendors/iCheck/skins/flat/green.css';
+
+// JQVMap
+@import '~gentelella/vendors/jqvmap/dist/jqvmap.min.css';
+
+// Gentelella
+@import '~gentelella/src/scss/custom';
+
+@import './main';
