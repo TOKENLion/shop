@@ -24,7 +24,7 @@
         "vue-template-compiler": "^2.6.10"
     },
     "dependencies": {
-        "bootstrap-sass": "3.3.7",
+        "bootstrap-sass": "3.4.1",
         "file-loader": "^4.0.0",
         "gentelella": "^1.4.0",
         "moment": "^2.24.0",
